@@ -1,13 +1,13 @@
 # This file lists the order of the CV sections. Each line
 # corresponds to a file in sections/ and are in order. Hence, 
-# the first one, “fields,” refers to a file called
-# “sections/fields.md.”
-fields
+# the first one, “education,” refers to a file called
+# “sections/education.md.”
+CareerProfile
 education
 experience
 certifications
 projects
 skills
-soft-skills
+softskills
 volunteer
 languages
