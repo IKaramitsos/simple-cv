@@ -6,11 +6,9 @@
 ## General options. These are all required.
 title: "Ioannis Karamitsos CV" # This is for the pdf metadata and <title> in html
 author:
-  - Moacir P. de Sá Pereira # This is the *author*, not the person, though it’s likely the same.
   - Ioannis Karamitsos
 author-lastname-first: # Same as above, but for Dublin Core metadata
-  - "Sá Pereira, Moacir P. de"
-  - "Jones, Henry Walton"
+  - "Karamitsos Ioannis"
 mode: markdown # or yaml. Yaml mode, however, is a future feature.
 contact-information: Contact Information # The text for the contact information header.
 markers: # The glyphs that begin lists
